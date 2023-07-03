@@ -1,0 +1,9 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family:sans-serif;
+    /*设置字体为sans-serif*/
+    background: url("../img/5.jpg");
+    background-size:cover;
+    /*背景图片尺寸为覆盖cover*/
+}
